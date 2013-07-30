@@ -1,4 +1,4 @@
-malaga
+Málaga
 ======
 
-Automatización del sistema de notación interna Málaga
+Automatización del sistema de notación interna Málaga.
