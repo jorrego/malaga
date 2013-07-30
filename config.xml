@@ -10,7 +10,7 @@
     <name>Málaga</name>
 
     <description>
-        Aplicación que sistematiza las tablas de notación interna que desarrolló el bibliotecario peruano Luis Málaga. 
+        Aplicación que sistematiza las tablas de notación interna que desarrolló el Dr. Luis F. Málaga. 
     </description>
 
     <author href="https://dilib.net" email="john@orrego.org">
@@ -20,5 +20,7 @@
     <icon src="favicon.png" />
     
     <preference name="phonegap-version" value="2.9.0" />
+    
+    <plugin name="InAppBrowser" value="org.apache.cordova.InAppBrowser" />
     
 </widget>
